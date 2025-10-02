@@ -1,5 +1,4 @@
 // GFG Solution
-
 class Solution {
   public:
     void floydWarshall(vector<vector<int>> &d) {
